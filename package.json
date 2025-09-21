@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0", 
+  "name": "jenkins-test", 
+  "description": "Jenins test", 
+  "main": "index.js", 
+  "scripts": { 
+    "start": "node index.js", 
+}
